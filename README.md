@@ -40,7 +40,9 @@ Inventory Value – Total worth of inventory
 
 🛠️ Tools & Technologies
 Power BI – Data visualization & dashboard creation
+
 SQL – Data querying and analysis
+
 Excel – Data cleaning and preprocessing
 
 📈 Dashboard Features
