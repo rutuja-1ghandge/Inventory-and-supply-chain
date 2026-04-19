@@ -61,12 +61,7 @@ Enhanced decision-making using data insights
 
 📌 Conclusion
 
-This dashboard demonstrates how data can be transformed into actionable insights to improve business performance, optimize inventory, and support strategic decisions.
-
-
-
-
-📊 Sales & Inventory Dashboard
+This dashboard demonstrates how data can be transformed into actionable insights to improve business performance, optimize inventory, and support strategic decisions
 
 
 
