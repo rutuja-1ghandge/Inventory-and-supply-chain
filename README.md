@@ -73,7 +73,7 @@ This dashboard demonstrates how data can be transformed into actionable insights
 
 
 🚚 Supply Chain Analytics Dashboard
-
+#Inventory dashboard
 📌 Project Overview
 
 This project focuses on building an interactive Supply Chain Analytics Dashboard to monitor and optimize end-to-end supply chain operations. It provides insights into order management, inventory levels, procurement costs, logistics performance, and demand forecasting.
