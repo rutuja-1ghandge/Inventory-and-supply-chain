@@ -72,7 +72,7 @@ This dashboard demonstrates how data can be transformed into actionable insights
 
 
 
-🚚## Supply Chain Analytics Dashboard
+🚚Supply Chain Analytics Dashboard
 
 📌 Project Overview
 
