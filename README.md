@@ -39,6 +39,7 @@ Inventory Value – Total worth of inventory
 🔴 Out of Stock – No inventory available
 
 🛠️ Tools & Technologies
+
 Power BI – Data visualization & dashboard creation
 
 SQL – Data querying and analysis
