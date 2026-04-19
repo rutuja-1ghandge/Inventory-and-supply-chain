@@ -37,8 +37,8 @@ Inventory Value – Total worth of inventory
 🟢 In Stock – Inventory meets required level
 🟡 Under Stock – Below desired level
 🔴 Out of Stock – No inventory available
-🛠️ Tools & Technologies
 
+🛠️ Tools & Technologies
 Power BI – Data visualization & dashboard creation
 SQL – Data querying and analysis
 Excel – Data cleaning and preprocessing
